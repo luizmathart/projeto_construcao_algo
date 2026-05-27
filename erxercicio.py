@@ -26,6 +26,6 @@ with open('exercicio.csv', 'r') as arquivo:
     print(f'o numero de consultas foi de {valor_total_arrecadado}')
     print(f'o valor medio de atendimentos foi de {round(valor_médio_atendimentos)}')
 
-#mudanca aqui por favor mude
+#nova teste
     
 
